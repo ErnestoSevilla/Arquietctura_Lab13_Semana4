@@ -1,0 +1,3 @@
+2024-06-28 23:26:20: 'users:init' con los datos '"C:\\xampp\\htdocs\\Patrones\/users.csv"'
+2024-06-28 23:26:20: 'users:created' con los datos '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"cd3850612ee7ae558f4b7d7bcb8bef76"}}'
+2024-06-28 23:26:20: 'users:deleted' con los datos '{"attributes":{"name":"John Smith","email":"john99@example.com","id":"cd3850612ee7ae558f4b7d7bcb8bef76"}}'
